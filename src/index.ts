@@ -27,4 +27,12 @@ console.log('El segundo actual es '+ segundo);
 console.log('El cancion actual es '+ cancion);
 console.log('El autor actual es '+ autor);
 
+const dbz:string[]=['Goku','Vegeta','Trunks'];
+const [p1,p2,p3]=dbz;
+console.log('Personaja 1 '.concat(p1));
+console.log('Personaja 2 '.concat(p2));
+console.log('Personaja 3 '.concat(p3));
+
+
+
 
