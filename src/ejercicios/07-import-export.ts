@@ -1,4 +1,4 @@
-import { calculaISV, Producto } from "./ejercicios/06-desestructuracionParamtros";
+import { calculaISV, Producto } from "./06-desestructuracionParamtros";
 
 
 const carritoCompras:Producto[]=
